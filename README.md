@@ -6,9 +6,38 @@ A charter School network utilizes the iReady diagnostic tool to indicate a stude
 
 ## Variables
 
+- Campus
+  - Elementary School (ES): Grades K-5
+  - Middle School (MS): Grades 6-8
+  - High School (HS): Grades 9-12
+- Overall Relative Placement:
+  - Mid or Above Grade Level
+  - Early On Grade Level
+  - 1 Grade Level Below 
+  - 2 Grade Levels Below
+  - 3 or More Grade Levels Below
+- Proficiency: Students considered to be on grade level. 
+  - On Grade Level
+  - Not On Grade Level
+- Tier Levels:
+  - Tier 1:
+    - Mid or Above Grade Level
+    - Early On Grade Level
+  - Tier 2:
+    - 1 Grade Level Below
+  - Tier 3: 
+    - 2 Grade Levels Below
+    - 3 or More Grade Levels Below
+
 
 ## Objective
 
+The analysis seeks to identify trends in iReady ELA performance in the Foundation Academy Charter School network. The analysis will be guided by the following questions:
+
+1. What were the network wide trends in iReady tier performance during the 2022-2023 school year in ELA?
+2. What were the campus wide trends in iReady tier performance during the 2022-2023 school year in ELA?
+3. What were the network wide trends in iReady proficiency performance during the 2022-2023 school year in ELA?
+4. What were the campus wide trends in iReady proficiency  performance during the 2022-2023 school year in ELA?
 
 ## Analysis 
 
