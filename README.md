@@ -32,7 +32,7 @@ A charter School network utilizes the iReady diagnostic tool to indicate a stude
 
 ## Objective
 
-The analysis seeks to identify trends in iReady ELA performance in the Foundation Academy Charter School network. The analysis will be guided by the following questions:
+The analysis seeks to identify trends in iReady ELA performance at a charter School network. The analysis will be guided by the following questions:
 
 1. What were the network wide trends in iReady tier performance during the 2022-2023 school year in ELA?
 2. What were the campus wide trends in iReady tier performance during the 2022-2023 school year in ELA?
