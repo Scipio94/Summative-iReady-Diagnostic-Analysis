@@ -1,4 +1,4 @@
-# iReady-Summative-Diagnostic-Analysis
+# Summative iReady Diagnostic Analysis
 
 ## Abstract 
 
