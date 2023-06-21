@@ -141,7 +141,7 @@ FROM
 FROM `my-data-project-36654.iReady_SY_2223.iReady_4_ELA`) AS sub --subquery
 ORDER BY ir4_Tier_Level)
 
-/*Combiing all three tables for calculation*/
+/*Combiing all tables for calculation*/
 
 SELECT 
   sub1.iReady_Index,--index
