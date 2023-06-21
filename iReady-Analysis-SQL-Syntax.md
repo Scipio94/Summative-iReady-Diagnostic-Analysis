@@ -1,6 +1,6 @@
 # iReady Analysis SQL Syntax
 
-## **Description** : The following SQL syntax was used to analyze tier and proficiency data.
+**Description** : The following SQL syntax was used to analyze tier and proficiency data.
 
 ~~~ SQL 
 --NETWORK ANALYSIS TIERS
